@@ -4,7 +4,7 @@ Estudante na área da Tecnologia, com foco em programação.
 
 <div align="center">
   <a href="https://github.com/mathbueeno">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=mathbueeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mathbueeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbueeno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
