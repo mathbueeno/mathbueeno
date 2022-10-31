@@ -1,9 +1,9 @@
 ### Olá, meu nome é Matheus!
 
-😄 Estudante na área da Tecnologia, com foco em programação.
-🔭 Estou trabalhando em uma empresa de Tecnologia (Multinacional) como estágiaria em integração de Sistemas.
-🌱 Estou estudando C#, .NET, React, SQL Server, HTML, CSS e JavaScript.
-💬 Tenho muito interesse em aprender novas linguagens e novas maneiras de manter o código limpo e escalável.
+😄 Estudante na área da Tecnologia, com foco em programação.<br/>
+🔭 Estou em busca de uma transição de carreira para a área da Tecnologia.<br/>
+🌱 Estou estudando C#, .NET, React, SQL Server, HTML, CSS e JavaScript.<br/>
+💬 Tenho muito interesse em aprender novas linguagens e novas maneiras de manter o código limpo e escalável.<br/>
 
 
 
