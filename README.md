@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/mathbueeno">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mathbueeno&show_icons=true&theme=transparent"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbueeno&layout=compact)"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbueeno&hide_progress=true"/>
 </div>
 
 <div style="display: inline_block"><br>
