@@ -2,7 +2,7 @@
 
 😄 Estudante na área da Tecnologia, com foco em programação.<br/>
 🔭 Estou em busca de uma transição de carreira para a área da Tecnologia.<br/>
-🌱 Estou estudando C#, .NET, React, SQL Server, HTML, CSS e JavaScript.<br/>
+🌱 Estou estudando Node.js, SQL Server, MongoDB, HTML, CSS e JavaScript.<br/>
 💬 Tenho muito interesse em aprender novas linguagens e novas maneiras de manter o código limpo e escalável.<br/>
 
 
