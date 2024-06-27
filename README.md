@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/mathbueeno/mathbueeno/blob/main/ReadMeSuffix(1).png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="Read MeSuffix (1).png" />
 &nbsp;&nbsp;&nbsp;
 
 
