@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/MatheusAbreuBueno/MatheusAbreuBueno/blob/main/Read%20MeSuffix.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/mathbueeno/mathbueeno/blob/main/ReadMeSuffix(1).png" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -11,8 +11,8 @@ Sou uma pessoa extremamente empenhada e proativa, sempre buscando aprender coisa
 Estou ansioso para continuar minha trajetória de aprendizado e contribuir para projetos que façam a diferença.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusAbreuBueno&theme=radical&mode=weekly" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbreuBueno&layout=compact&theme=buefy&hide_border=true" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mathbueeno&theme=radical&mode=weekly" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbueeno&layout=compact&theme=buefy&hide_border=true" />
 <!--<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbreuBueno&hide_progress=true" />-->
 <!--<img width=40% align="center" src="https://github-readme-stats-git-main-MatheusAbreuBueno.vercel.app/api/top-langs/?username=MatheusAbreuBueno&show_icons=true&theme=radical&layout=compact" />-->
  </div>
